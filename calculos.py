@@ -39,4 +39,4 @@ def obtener_recomendaciones(consumo, elevado):
     elif consumo > 300:
         recomendaciones.append("Programar una revision del consumo de los equipos principales.")
 
-    return recomendacione
+    return recomendaciones
