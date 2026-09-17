@@ -16,5 +16,5 @@ def validar_consumo(valor):
     return consumo
 
 
-def es_consumo_elevado(consumo):
+def es_consumo_elevado(consumo)?
     return consumo > 500

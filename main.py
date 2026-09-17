@@ -31,4 +31,4 @@ def ejecutar_programa():
 
 
 if __name__ == "__main__":
-    ejecutar_programa()
+    ejecutar_programa(

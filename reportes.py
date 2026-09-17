@@ -27,4 +27,4 @@ def mostrar_resumen(consumo, rango, tarifa, costo, elevado, recomendaciones):
 
 
 def mostrar_error(mensaje):
-    print(f"Error: {mensaje}")
+    print(f"Error: {mensaje}"
